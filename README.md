@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Data Science and machine learning.
 - 💞️ I’m looking to collaborate on Flask, python and web development projects.
 - 📫 How to reach me 
-  https://www.instagram.com/parthsethi5/,
-  parthsethi85@gmail.com,https://www.linkedin.com/in/parth-sethi-72450a194/
+  Instagram- https://www.instagram.com/parthsethi5/,
+  Mail- parthsethi85@gmail.com
+  LinkedIn- https://www.linkedin.com/in/parth-sethi-72450a194/
 
 
 <!---
