@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Parth505
-- 👀 I’m interested in reading,playing ukulele and watching  .
+- 👀 I’m interested in reading,playing ukulele and watching series and movies.
 - 🌱 I’m currently learning Data Science and machine learning.
 - 💞️ I’m looking to collaborate on Flask, python and web development projects.
 - 📫 How to reach me ...
+Instagram -https://www.instagram.com/parthsethi5/
+mail - parthsethi85@gmail.com
 
 
 <!---
